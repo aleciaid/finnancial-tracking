@@ -10,6 +10,7 @@ A modern, secure web application for tracking personal finances, built with Reac
 - 💸 Income and expense tracking
 - 🏷️ Category management
 - 📱 Responsive design
+- 🌓 Dark/Light theme support
 
 ## Tech Stack
 
